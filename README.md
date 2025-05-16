@@ -11,3 +11,5 @@ This Python program processes and analyzes traffic data from a CSV file based on
 
 - **Dynamic CSV File Loading**  
   Loads traffic data from a CSV file formatted as `traffic_dataDDMMYYYY.csv`, where `DD`, `MM`, and `YYYY` are the day, month, and year_
+  
+- **ENSURE YOU DOWNLOAD BOTH `graphics.py` and `main.py`AND PLACE IN SAME FOLDER**
